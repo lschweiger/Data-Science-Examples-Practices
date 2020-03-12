@@ -10,3 +10,5 @@ will be update with more
 Deep Learning By Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
 Learning from Data : A Short Course By  by Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin
+
+Machine Learning: The Art and Science of Algorithms that Make Sense of Data by Peter Flach
